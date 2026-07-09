@@ -1,61 +1,11 @@
-          width: 50px;
-          height:100px;
-          background-color: lightblue;
-     }
-     img {
-          width: 150px;
-
-
-
-
-
-
 div {
-     color:red
-     background-color: grey;
-     font size: 18px;
-
-}     
-
-<html>
-     <head>
-           <style>
-               div {
-                    color: red;
-               }
-          </style>
-       </head>
-       <body>
-            <div>this text is red</div>
-            <div>this text is red</div>
-            <div>this text is red</div>
-            <div>this text is red</div>
-        </body>
-</html>
-
-<style>
-    h1{
-         color: orchid;
-         font-weight: Montserrat,
-         sans-serif;
-         font-size: 50px;
-    }
-</style>
-
-div {
-     color:red;
-     background-color:lightblue;
-     font-size: 20px;
-}
-
-p{
-     color: #0000ff;
+     width: 50px;
+     height: 100px;
      background-color: lightblue;
-     font-family: helvetica, sans-serif;
-     font-size: 20px;
-     font-weight: bold;
-     text-decoration: underline;
-     text-transform: uppercase;
+
+}
+img {
+     width: 150px;     
 
       
 
