@@ -1,5 +1,13 @@
-body {background-color:grey;}
-
-body {background-color:tan;}
 
 body {background-color:lightblue;}
+
+div {
+     width: 50px;
+     height: 100px;
+     background-color:tan
+
+}
+img {
+  width: 150px;
+
+}
