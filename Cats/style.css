@@ -1,8 +1,10 @@
 
 body {background-color:lightblue;}
+body {background-color:tan;}
+body {background-color:grey;}
 
 div {
-     width: 100px;
+     width: 500px;
      height: 100px;
      background-color:tan
 
