@@ -1,13 +1,32 @@
-
-body {background-color:lightblue;}
-body {background-color:tan;}
-body {background-color:grey;}
-
 div {
-     background-color:tan
+     color:red
+     background-color: grey;
+     font size: 18px;
 
-}
-img {
-  width: 150px;
+}     
 
-}
+<html>
+     <head>
+           <style>
+               div {
+                    color: red;
+               }
+          </style>
+       </head>
+       <body>
+            <div>this text is red</div>
+            <div>this text is red</div>
+            <div>this text is red</div>
+            <div>this text is red</div>
+        </body>
+</html>
+
+<style>
+    h1{
+         color: orchid;
+         font-weight: Montserrat,
+         sans-serif;
+         font-size: 50px;
+    }
+</style>
+
